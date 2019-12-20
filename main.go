@@ -5,8 +5,8 @@ import "fmt"
 func main() {
 	fmt.Println("Hello World in Go from Docker Container")
 	fmt.Println("added another line")
-	fmt.Println('added third line')
-	fmt.Println('added fourth line')
-	fmt.Println('added fifth line')
-	fmt.Println('added sixth line')
+	fmt.Println("added third line")
+	fmt.Println("added fourth line")
+	fmt.Println("added fifth line")
+	fmt.Println("added sixth line")
 }
