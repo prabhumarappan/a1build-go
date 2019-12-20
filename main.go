@@ -8,4 +8,5 @@ func main() {
 	fmt.Println('added third line')
 	fmt.Println('added fourth line')
 	fmt.Println('added fifth line')
+	fmt.Println('added sixth line')
 }
